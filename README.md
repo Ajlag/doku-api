@@ -15,7 +15,7 @@ Online software documentation management system.
 Once the environment is set up with the required dependencies, you can clone the source code:
 
 ```sh
-$ git clone git@github.com:i4di/doku-api.git
+$ git clone https://github.com/Ajlag/doku-api
 ```
 
 When the cloning completes, you can navigate into the directory where the source code is cloned:
